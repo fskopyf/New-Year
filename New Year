@@ -1,0 +1,48 @@
+<html>
+    <title>All about the New Year</title>
+    <body>
+
+        <header>
+            <img=src"https://im.wampi.ru/2023/12/17/pngwing.com-2.png">
+            <a href="#history" style="text-decoration:none">History</a>
+        </header>
+
+        <main>
+            <h1 style="text-align:center;;color:#808000" >New Year</h1>
+            <p style="text-align:center;">New Year is the main calendar holiday that comes at the moment of transition from the last day of the current year to the first day of the next year. It is celebrated by many peoples in accordance with the accepted calendar.</p><img src="https://im.wampi.ru/2023/12/17/99161771bb2a7d9466e216b.jpg" width="400">
+            <h2 style="text-align:center;color:#C71585" id="history">The origin story of the new Year</h2>
+            <p style="text-align:center;">According to scientists, the tradition of celebrating the New Year originated in Ancient Mesopotamia 5,000 years ago. The Babylonians began the New Year with the month of Nissan (coinciding with the vernal equinox) and was established in honor of the supreme god Marduk (the patron god of the city of Babylon). Then this festive tradition was adopted by the Greeks and Egyptians, then it passed to the Romans.</p>
+            <h3 style="text-align:center;color:#DB7093">On New Year's Eve</h3>
+            <p style="text-align:center;">On the eve of the new year, everyone is fussing all the time. Many mothers and grandmothers cook New Year's food, and some belatedly put up a Christmas tree, someone drinks champagne and just rests while they do everything for him. New Goa's Eve is a wonderful time.</p>
+            <footer>
+               <h3>
+                   Address
+               </h3>
+               <p>
+                   New York, Arbat, 124/2
+               </p>
+            </footer>
+        </main>
+
+
+        <footer></footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </body>
+</html>
